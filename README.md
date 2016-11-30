@@ -8,7 +8,7 @@ My website hosts a number of projects that will give you an idea about the type 
 - The Breville Sandwich Toaster Facebook App - An app made 4 years ago that allows facebook users to disguise the device they are posting from as a Breville Sandwich Toaster
 - The Irish Mother Elizabot (or the Eileenbot) - currently in production.
 - The Tecnho Pomodoro Playlist
--
+
 
 I'm looking for an environment that let's me bring my whole self to work, challenges me and supports my continued learning. I'm happiest when I'm building stuff, thinking about complex tech issues and working with people who are also excited about what we do.
 
@@ -20,15 +20,15 @@ I've been excited about learning to code for years (as evidenced by the facebook
 
 My background relates to Law and Children's Social Care. I got into these areas because everyday, I made people's lives better using by problem solving.
 
-My first job out of University was as a criminal paralegal of a tiny law firm in Dublin. It was one of the most fantastic experiences of my life. For a year, I went to work everyday and fire fought problems left right and centre, in prisons, in court, in the office. It was so much fun, emotionally and intellectually stimulating and honed my crisis situation skills to a tee. I left to move to the UK and for greener pastures. I loved criminal law but it's exceptionally social draining and once my year was up I wanted a slightly slower pace to deep dive on problems. That's why I moved into Child Protection Law.
+My first job out of University was as a criminal paralegal of a tiny law firm in Dublin. It was one of the most fantastic experiences of my life. For a year, I went to work everyday and fire fought problems left right and centre, in prisons, in court, in the office. It was so much fun, emotionally and intellectually stimulating and honed my crisis situation skills to a tee. I left to move to the UK and for greener pastures. I loved criminal law but it's exceptionally socially draining and once my year was up I wanted a slightly slower pace to deep dive on problems. That's why I moved into Child Protection Law.
 
-Working in Child Protection has been deeply fulfilling.
+Working in Child Protection has been deeply fulfilling. It allowed me to approach more systematic problems through data analysis and policy consideration rather than on a case by case basis. I have a passion for small tweaks that make big impacts and being able to see these in action and prove the benefits with data motivated deeper research. Here, I learned the power of the deep dive and the novel approach.
 
 
 
-First Class Honours Masters of Law from UCL
-Upper Second Class Honours Bachelors of Law from NUIG
-First Class Honours Bachelors of Legal Science, Political Science and Sociology from NUIG
+- First Class Honours Masters of Law from UCL
+- Upper Second Class Honours Bachelors of Law from NUIG
+- First Class Honours Bachelors of Legal Science, Political Science and Sociology from NUIG
 
 
 
