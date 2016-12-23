@@ -4,6 +4,13 @@ If you're looking for a full-stack junior developer who loves problem solving, i
 
 My website hosts a number of projects that will give you an idea about the type of developer and person I am. The ones I am most proud of are:
 
+
+| Project     | Synopsis          | Tech Stack  | Link |
+| ------------- |:-------------:| -----:| -----:|
+| The Butthole Extension     | Boiler plate word replacement chrome extension | Javascript |
+| The Breville Sandwich Toaster Facebook App   | Deprecated   |   Facebook Developer Tools|
+| Butt Facts Texting Services | Boiler plate texting app     |    Twilio, Ruby |
+
 - The Butthole Extension - A chrome extension the changes every instance of the word 'Trump' to the word 'Butthole'
 - The Breville Sandwich Toaster Facebook App - An app made 4 years ago that allows facebook users to disguise the device they are posting from as a Breville Sandwich Toaster
 - The Irish Mother Elizabot (or the Eileenbot) - currently in production.
