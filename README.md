@@ -5,13 +5,13 @@ If you're looking for a full-stack junior developer who loves problem solving, i
 My website hosts a number of projects that will give you an idea about the type of developer and person I am. The ones I am most proud of are:
 
 
-| Project     | Synopsis          | Tech Stack  | Link |
-| ------------- |:-------------:| -----:| -----:|
+| Project     | Synopsis          | Tech Stack  |
+| ------------- |:-------------:| -----:|
 | The Butthole Extension     | Boiler plate word replacement chrome extension | Javascript |
 | The Breville Sandwich Toaster Facebook App   | Deprecated   |   Facebook Developer Tools|
 | Butt Facts Texting Services | Boiler plate texting app     |    Twilio, Ruby |
 | Floating Point VR | Virtual reality city builder experience | C#, Unity, VRTK and HTC Vive |
-
+| What Tights? | An algorithm for determining the denier of tights required | Available in both Javascript and Ruby|
 
 I'm looking for an environment that let's me bring my whole self to work, challenges me and supports my continued learning. I'm happiest when I'm building stuff, thinking about complex tech issues and working with people who are also excited about what we do.
 
