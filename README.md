@@ -10,11 +10,7 @@ My website hosts a number of projects that will give you an idea about the type 
 | The Butthole Extension     | Boiler plate word replacement chrome extension | Javascript |
 | The Breville Sandwich Toaster Facebook App   | Deprecated   |   Facebook Developer Tools|
 | Butt Facts Texting Services | Boiler plate texting app     |    Twilio, Ruby |
-
-- The Butthole Extension - A chrome extension the changes every instance of the word 'Trump' to the word 'Butthole'
-- The Breville Sandwich Toaster Facebook App - An app made 4 years ago that allows facebook users to disguise the device they are posting from as a Breville Sandwich Toaster
-- The Irish Mother Elizabot (or the Eileenbot) - currently in production.
-- The Tecnho Pomodoro Playlist
+| Floating Point VR | Virtual reality city builder experience | C#, Unity, VRTK and HTC Vive |
 
 
 I'm looking for an environment that let's me bring my whole self to work, challenges me and supports my continued learning. I'm happiest when I'm building stuff, thinking about complex tech issues and working with people who are also excited about what we do.
