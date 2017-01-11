@@ -10,7 +10,7 @@ My website hosts a number of projects that will give you an idea about the type 
 | The Butthole Extension     | Boiler plate word replacement chrome extension | Javascript | [Link](http://tinyurl.com/hoeyw3w) |
 | The Breville Sandwich Toaster Facebook App   | Make your device appear as a Breville Sandwich Toaster on Facebook  |   Facebook Developer Tools| Deprecated |
 | Butt Facts Texting Services | Boiler plate texting app     |    Twilio, Ruby | [Link](https://github.com/RachaelMahon/Butt-Facts-Texting-Service) |
-| Floating Point VR | Virtual reality city builder experience | C#, Unity, VRTK and HTC Vive |[Link](https://github.com/RachaelMahon/Butt-Facts-Texting-Service)|
+| Floating Point VR | Virtual reality city builder experience | C#, Unity, VRTK and HTC Vive |[Link](youtu.be/XFBpKRfyup4) |
 | What Tights? | An algorithm for determining the denier of tights required | Available in both Javascript and Ruby|[Link](https://github.com/RachaelMahon/What-Tights)|
 
 I'm looking for an environment that let's me bring my whole self to work, challenges me and supports my continued learning. I'm happiest when I'm building stuff, thinking about complex tech issues and working with people who are also excited about what we do.
